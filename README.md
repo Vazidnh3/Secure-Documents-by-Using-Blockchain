@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Secure Documents by Using Blockchain
 
 ## Introduction
 In this groundbreaking project, I have developed a robust file storage mechanism designed to ensure data security through decentralized means. This cutting-edge approach leverages blockchain technology, positioning us at the forefront of data protection and accessibility. 🔒🌐
@@ -65,11 +65,11 @@ Users are required to set up a Metamask account.
 
 
 ## Technologies
-Metamask is a versatile cryptocurrency wallet and 🌐 web3 provider that plays a crucial role in the 🪙 blockchain ecosystem. It acts as a secure bridge between users and blockchain networks, with a primary focus on Ethereum. Users can easily manage their Ethereum accounts, interact with decentralized applications (DApps), and securely store private keys, all within a user-friendly browser extension. Metamask's flexibility extends to various Ethereum networks, including the Ethereum Mainnet and testnets, providing both developers and users with seamless access to a wide array of blockchain-based services. 🔐💼
+**Metamask** is a versatile cryptocurrency wallet and 🌐 web3 provider that plays a crucial role in the 🪙 blockchain ecosystem. It acts as a secure bridge between users and blockchain networks, with a primary focus on Ethereum. Users can easily manage their Ethereum accounts, interact with decentralized applications (DApps), and securely store private keys, all within a user-friendly browser extension. Metamask's flexibility extends to various Ethereum networks, including the Ethereum Mainnet and testnets, providing both developers and users with seamless access to a wide array of blockchain-based services. 🔐💼
 
-Pinata is a versatile web3 service at the core of blockchain data storage. It simplifies decentralized data management, especially on Ethereum, with an easy-to-use interface and API. Developers and users benefit from its cross-network compatibility, ensuring secure and reliable data storage, enhancing decentralized applications (DApps) and smart contract functionality, all while prioritizing data security and integrity. 🔐📂
+**Pinata** is a versatile web3 service at the core of blockchain data storage. It simplifies **decentralized data management**, especially on Ethereum, with an easy-to-use interface and API. Developers and users benefit from its cross-network compatibility, ensuring secure and reliable data storage, enhancing decentralized applications (DApps) and smart contract functionality, all while prioritizing data security and integrity. 🔐📂
 
-Ethereum and Hardhat form a powerful duo in blockchain development, with Ethereum serving as the foundation for decentralized applications and smart contracts, and Hardhat providing a robust toolkit for testing and deploying these blockchain solutions. Hardhat streamlines the development process, offering automated testing and a user-friendly environment, making it an essential companion for Ethereum developers. 
+**Ethereum** and **Hardhat** form a powerful duo in blockchain development, with Ethereum serving as the foundation for decentralized applications and smart contracts, and Hardhat providing a robust toolkit for testing and deploying these blockchain solutions. Hardhat streamlines the development process, offering automated testing and a user-friendly environment, making it an essential companion for Ethereum developers. 
 
 ## Screenshots
 ![Screenshot (3)](https://github.com/Vazidnh3/Secure-Documents-by-Using-Blockchain/assets/111126298/56dce454-e048-41a7-a43a-b6febbb5e150)
@@ -85,4 +85,5 @@ In summary, this project showcases the effective combination of Metamask, Pinata
 
 ## Technology Stack
 https://metamask.io/
+
 https://app.pinata.cloud
